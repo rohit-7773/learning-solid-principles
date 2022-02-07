@@ -30,3 +30,8 @@ credit - https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-picture
 
 #### 5. Dependency Inversion Principle
 > ***High-level modules should not depend on low-level modules. Both should depend on the abstraction.***
+
+-------------
+## References
+***https://www.youtube.com/watch?v=rtmFCcjEgEw***
+***https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898***
