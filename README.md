@@ -22,3 +22,7 @@ SOLID priciples are some kind of design patterns introduced by Robert Martin (un
 [![](https://miro.medium.com/max/2000/1*yKk2XKJaCLNlDxQMx1r55Q.png)](http://https://miro.medium.com/max/2000/1*yKk2XKJaCLNlDxQMx1r55Q.png)
 
 credit - https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
+
+
+#### 4. Interface Segregation Principle
+> ***Client Should not be forced to depend on methods they do not use. The interface segregation principle puts an emphasis on creating smaller and more specific interfaces.***
