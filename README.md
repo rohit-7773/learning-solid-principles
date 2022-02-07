@@ -26,3 +26,7 @@ credit - https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-picture
 
 #### 4. Interface Segregation Principle
 > ***Client Should not be forced to depend on methods they do not use. The interface segregation principle puts an emphasis on creating smaller and more specific interfaces.***
+
+
+#### 5. Dependency Inversion Principle
+> ***High-level modules should not depend on low-level modules. Both should depend on the abstraction.***
